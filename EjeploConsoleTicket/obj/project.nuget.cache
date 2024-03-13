@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Y3B0O5vMkfxIeWbzTxrwfkefCFWpqOVrsjkC+lDqfxnxFf7dfJftrqXc1tK7d8DwZNrHreytSmPDL4YfgHw2w==",
+  "success": true,
+  "projectFilePath": "D:\\Proyects\\C#\\EjemploConsoleTicket\\EjeploConsoleTicket\\EjeploConsoleTicket\\EjeploConsoleTicket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\pdfsharpcore\\1.3.63\\pdfsharpcore.1.3.63.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sharpziplib\\1.3.3\\sharpziplib.1.3.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sixlabors.fonts\\1.0.0-beta17\\sixlabors.fonts.1.0.0-beta17.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\sixlabors.imagesharp\\1.0.4\\sixlabors.imagesharp.1.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
